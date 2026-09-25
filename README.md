@@ -1,5 +1,12 @@
 # 💫 About Me:
-.....
+
+
+I’m a B.Tech CSE (AI & ML) student passionate about technology and innovation.
+I’m currently learning **Python, Artificial Intelligence, and Machine Learning**.
+I enjoy building projects that solve real-world problems using AI and programming.
+I’m continuously improving my **coding, problem-solving, and communication skills**.
+My goal is to become a skilled **AI Engineer** and create useful AI-powered solutions.
+
 
 
 # 💻 Tech Stack:
